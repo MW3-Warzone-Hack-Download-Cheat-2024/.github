@@ -72,8 +72,8 @@ Don't miss out on your chance to become a top-tier player. With **MW3 Warzone Ha
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/RCc3ioa.png" width="500" height="350" />
-  <img src="https://i.imgur.com/T1gndjX.png" width="500" height="350" />
+  <img src="https://i.imgur.com/RCc3ioa.png" width="550" height="300" />
+  <img src="https://i.imgur.com/T1gndjX.png" width="550" height="300" />
 </div>
 
 ## 🔗 Tags
